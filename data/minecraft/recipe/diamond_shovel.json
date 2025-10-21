@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        " 2 ",
+        " 2 "
+    ],
+    "key": {
+        "1":"minecraft:bedrock",
+        "2":"minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:diamond_shovel",
+        "count": 1
+    }
+}
