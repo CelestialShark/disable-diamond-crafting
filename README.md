@@ -11,3 +11,7 @@ so they can only be obtained through looting chests.
 - Diamond Sword
 
 ## Armour Replaced
+- Diamond Helmet
+- Diamond Chestplate
+- Diamond Leggings
+- Diamond Boots
